@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "backend",
+    "password": "password",
+    "database": "project1_api",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "backend",
+    "password": "password",
+    "database": "project1_api",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "backend",
+    "password": "password",
+    "database": "project1_api",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
